@@ -1,4 +1,3 @@
 # ML
- 1. BERT
- 2. Time Series with TF
- 3. Intro to Keras with WandB
+ 1. Time Series with TF
+ 2. Intro to Keras with WandB
